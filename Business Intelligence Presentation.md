@@ -1,5 +1,6 @@
 # Business Intelligence Presentation Proposal
 ![my image](https://github.com/Benakone/Capstone_Class_2024/blob/main/Images/download.jpg?raw=true)
+
 Introduction
 - Overview of the business intelligence topic
 - Significance of data-driven decision-making
