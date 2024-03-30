@@ -1,5 +1,5 @@
 # Technical Technique Presentation Proposal
-![my image](https://github.com/Benakone/Capstone_Class_2024/blob/main/Images/24856703c.jpg?raw=true)
+![my image](https://github.com/Benakone/Capstone_Class_2024/blob/main/Images/download.jpg?raw=true)
 
 ## Introduction
 - Brief overview of the presentation topic
