@@ -37,7 +37,7 @@ Introduction
   consistency, Analysis and modeling, Insights generation, Interpreting model outputs, visualizing results, and extracting actionable insights to support
   decision-making.
 
-  - Anticipated insights and their impact on business strategies: Identification of key factors influencing car prices, such as brand reputation, model 
+- Anticipated insights and their impact on business strategies: Identification of key factors influencing car prices, such as brand reputation, model 
     popularity, and market demand. Optimization of pricing strategies based on predictive models and market trends.
 
 
