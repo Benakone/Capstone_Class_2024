@@ -14,7 +14,7 @@ Introduction
 
 ## Presentation Candidate
 - Name: Akomolafe Olawole Seun
-- Professional background: An accomplished Financial Risk Analyst, with over 8years work experience in Insurance industry as Risk Analyst  and internal control 
+- Professional background: An experienced Financial Risk Analyst, with over 8years work experience in Insurance industry as Risk Analyst  and internal control 
   officer, I studied Banking and Finance in my undergraduate.  urrently studying Business Intelligence and Analytics at NSCC IT campus. where I have been learning 
   the application of various Business Intelligence tools and skills such as SSMS, Power BI, Python, SSRS, SSIS, Machine Learning, Postgresql, Microsoft Report 
   Builder etc.
@@ -23,7 +23,7 @@ Introduction
 - Criteria for choosing the dataset: Availability of comprehensive attributes including the year of manufacture, selling price, kilometers driven, fuel type, 
   seller type, transmission type, number of previous owners, mileage, and engine specifications Relevance to business objectives and strategic decision-making in 
   the automotive industry.
-- Potential sources for data acquisition: Publicly available datasets from www.kaggle.com.
+- Potential sources for data acquisition: Publicly available datasets from www.kaggle.com and https://archive.ics.uci.edu.
   
 - Relevance of the chosen data to the business domain: The selected dataset will provide insights into pricing trends, consumer preferences, and market dynamics, 
   enabling organizations to optimize pricing strategies, forecast demand, and identify growth opportunities.
