@@ -14,8 +14,7 @@ Introduction
 
 ## Presentation Candidate
 - Name: Akomolafe Olawole Seun
-- 
-- professional background: An accomplished Financial Risk Analyst, with over 8years work experience in Insurance industry as Risk Analyst  and internal control 
+- Professional background: An accomplished Financial Risk Analyst, with over 8years work experience in Insurance industry as Risk Analyst  and internal control 
   officer, I studied Banking and Finance in my undergraduate.  urrently studying Business Intelligence and Analytics at NSCC IT campus. where I have been learning 
   the application of various Business Intelligence tools and skills such as SSMS, Power BI, Python, SSRS, SSIS, Machine Learning, Postgresql, Microsoft Report 
   Builder etc.
