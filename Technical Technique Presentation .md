@@ -1,7 +1,7 @@
 # Technical Technique Presentation Proposal
 ![my image](https://github.com/Benakone/Capstone_Class_2024/blob/main/Images/download.jpg?raw=true)
 
-   Title: Data Cleansing and Loading into PostgreSQL Database Using Python
+-   Title: Data Cleansing and Loading into PostgreSQL Database Using Python
 
 ## Introduction
 
