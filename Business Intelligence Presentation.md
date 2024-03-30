@@ -1,10 +1,16 @@
 # Business Intelligence Presentation Proposal
 ![my image](https://github.com/Benakone/Capstone_Class_2024/blob/main/Images/download.jpg?raw=true)
 
+- Title: An Extensive Examination of Car Price Prediction: Leveraging a Comprehensive Dataset for Enhanced Insights
 Introduction
-- Overview of the business intelligence topic
-- Significance of data-driven decision-making
+- The proposed presentation will delve into the business intelligence aspects of car price prediction, utilizing a comprehensive dataset to derive actionable   
+  insights. It will underscore the importance of data-driven decision-making in the automotive industry and highlight how business intelligence techniques can 
+  empower organizations to make informed strategic choices.
+  
 - Goals of the presentation
+- To showcase the role of business intelligence in analyzing complex datasets and extracting valuable insights.
+- To demonstrate the application of business intelligence techniques in predicting car prices and understanding market dynamics.
+- To emphasize the potential impact of data-driven decision-making on business strategies and competitive advantage.
 
 ## Presentation Candidate
 - Name and professional background
