@@ -3,7 +3,7 @@
 
 - Title: An Extensive Examination of Car Price Prediction: Leveraging a Comprehensive Dataset for Enhanced Insights
   
-Introduction:
+## Introduction:
 - The proposed presentation will delve into the business intelligence aspects of car price prediction, utilizing a comprehensive dataset to derive actionable   
   insights. It will underscore the importance of data-driven decision-making in the automotive industry and highlight how business intelligence techniques can 
   empower organizations to make informed strategic choices.
