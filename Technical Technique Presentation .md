@@ -1,7 +1,10 @@
 # Technical Technique Presentation Proposal
 ![my image](https://github.com/Benakone/Capstone_Class_2024/blob/main/Images/download.jpg?raw=true)
 
+   Title: Data Cleansing and Loading into PostgreSQL Database Using Python
+
 ## Introduction
+
 - Brief overview of the presentation topic
 - Importance of the technical technique in the assigned domain (i.e. Team Reporting, Team ETL, etc)
 - Objectives of the presentation
