@@ -47,7 +47,7 @@
 - Enhanced decision-making through access to clean and accurate data.
 
 ## Implementation Plan
-- Timeline for the preparation of the presentation: 10Days
+- Timeline for the preparation of the presentation: 8 Hours
   
 - Resources required (software, hardware, etc.): Software:
 - Python, PostgreSQL, Jupyter Notebook.
