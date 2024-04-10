@@ -43,7 +43,7 @@
 
 
 ## Implementation Plan
-- Schedule for the development of the presentation: 10 Days.
+- Schedule for the development of the presentation: 10 Hours.
   
 - Necessary resources (BI tools, datasets, etc.): Business intelligence tools: Python, Excel, Power BI.
   
